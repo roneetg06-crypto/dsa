@@ -4,6 +4,6 @@
 
 | # | Problem | LeetCode / Source | Pattern | Solved | Revised (2 din) | Revised (7 din) |
 |---|---------|-------------------|---------|--------|-----------------|-----------------|
-| 1 | [Largest Element](stage1_fundamentals/001_largest_element.py) | (https://www.geeksforgeeks.org/) | Traversal | ✅ | ✅ | ✅ |
-| 2 | Smallest Element (stage1_fundamentals/001_smallest_element.py) | (https://www.geeksforgeeks.org/) | Traversal | ✅ | ✅ | ✅ |
-| 3 | Second Largest | - | Traversal | ☐ | ☐ | ☐ |
+| 1 | [Largest Element](stage1_fundamentals/001_largest_element.py) | - | Traversal | ✅ | ✅ | ✅ |
+| 2 | [Smallest Element](stage1_fundamentals/002_smallest_element.py) | - | Traversal | ✅ | ✅ | ✅ |
+| 3 | [Second Largest](stage1_fundamentals/003_second_largest_element.py) | - | Traversal | ✅ | ✅ | ✅ |
